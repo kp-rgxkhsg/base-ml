@@ -34,3 +34,7 @@ e = yh- y
 print('test loss = ',(1/(2*m))*np.sum(e**2))
 
 print(yh)
+
+
+google colab link 
+https://colab.research.google.com/drive/1ayeroeYV5G01fylfGT2HVkOPCwMx3bfu#scrollTo=fEs6Iu5kIvFB
